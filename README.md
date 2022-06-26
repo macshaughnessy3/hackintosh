@@ -1,5 +1,5 @@
-# Hackintosh - z690 ASUS ROG STRIX GAMING-F
+# Hackintosh - ROG STRIX Z690-F GAMING
 
-About This Mac            |  neofetch
-:-------------------------:|:-------------------------:
-![About This Mac](/Assets/About%20This%20Mac.png)  |  ![neofetch](/Assets/neofetch.png)
+This build uses the [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg).
+
+![About This Mac](/Assets/About%20This%20Mac.png)
